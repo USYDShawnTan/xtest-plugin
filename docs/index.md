@@ -1,5 +1,6 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
+# 启动！ npm run docs:dev
 layout: home
 
 hero:
