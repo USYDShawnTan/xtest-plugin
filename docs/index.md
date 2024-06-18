@@ -16,10 +16,10 @@ hero:
       link: https://github.com/USYDShawnTan/xtest-plugin
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 我是大自然的搬运工
+    details: 问就是到处搬运，找到有意思的就搬过来
+  - title: 不不不 自己写的非常少
+    details: 什么，当然进行了优化，不过也不排除有一模一样的
+  - title: 都是gpt写的代码（bushi）
+    details: 那充了钱的必须得用啊（乐）
 ---

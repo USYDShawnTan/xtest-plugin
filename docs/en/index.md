@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "xiaotan"
   text: ""
-  tagline: My great project tagline
+  tagline: Yunzai-Bot/Miao-Yunzai
   actions:
     - theme: brand
       text: 使用说明
