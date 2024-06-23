@@ -13,7 +13,7 @@ hero:
       link: /markdown-examples
     - theme: alt
       text: GitHub
-      link: https://github.com/USYDShawnTan/xtest-plugin
+      link: https://github.com/USYDShawnTan/xiaotan-plugin
 
 features:
   - title: 我是大自然的搬运工

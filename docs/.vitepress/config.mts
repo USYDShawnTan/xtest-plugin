@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/xtest-plugin/',
-  title: "xtest-plugin",
+  base: '/xiaotan-plugin/',
+  title: "xiaotan-plugin",
   description: "A VitePress Site",
   locales: {
     root: {
@@ -33,7 +33,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/USYDShawnTan/xtest-plugin' }
+      { icon: 'github', link: 'https://github.com/USYDShawnTan/xiaotan-plugin' }
     ]
   }
 })
