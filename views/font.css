@@ -1,0 +1,23 @@
+
+@font-face {
+    font-family: 'HuawenSong';
+    src: url('./font/华文中宋.TTF') format('truetype');
+}
+
+@font-face {
+    font-family: 'HYWH-65W';
+    src: url('./font/HYWH-65W.woff') format('woff'),
+        url('./font/HYWH-65W.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'NZBZ';
+    src: url('./font/NZBZ.woff') format('woff'),
+        url('./font/NZBZ.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'TTTGBNumber';
+    src: url('./font/tttgbnumber.woff') format('woff'),
+        url('./font/tttgbnumber.ttf') format('truetype');
+}

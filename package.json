@@ -1,0 +1,8 @@
+{
+  "name": "xiaotan-plugin",
+  "version": "4.0.0",
+  "type": "module",
+  "dependencies": {
+    "gpti": "^2.1.7"
+  }
+}
